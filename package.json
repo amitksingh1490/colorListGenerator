@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/amitksingh1490/colorListGenerator.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Color", "Color generator","color array", "color list","color palette"],
+  "author": "Amit Kumar Singh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/amitksingh1490/colorListGenerator/issues"
