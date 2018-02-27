@@ -1,6 +1,6 @@
 {
   "name": "color-list-generator-random",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is the list of colors which can be used to generate colors list. It can be used in any charting library to generate random colors.",
   "main": "createColors.js",
   "scripts": {
